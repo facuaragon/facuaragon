@@ -5,9 +5,7 @@
 <p align="left">
 <a href="https://twitter.com/facundoaragon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="facundoaragon" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/facundo-aragon-00919459/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="facundo aragon" height="30" width="40" /></a>
-<a href="https://www.facebook.com/facu.aragon/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facu aragon" height="30" width="40" /></a>
 <a href="https://instagram.com/facuaragon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="facuaragon" height="30" width="40" /></a>
-<a href="https://discord.gg/Facundo Aragon#5340" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Facundo Aragon#5340" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
