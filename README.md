@@ -2,8 +2,13 @@
 <h3 align="center">A Full Stack Developer from Buenos Aires, Argentina</h3>
 <hr/>
 
-<h1 align="center">Who I am?</h1>
-<h3 align="center">Who I am?</h3>
+<h3 align="left">Who I am?</h3>
+
+<h3 align="left">What I do?</h3>
+
+<h3 align="left">Where am I headed?</h3>
+
+<h3 align="left">Who I am?</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
