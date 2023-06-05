@@ -13,6 +13,11 @@
 
 <h1 align="left">Who I am?</h1>
 
+<h1 align="left">Contact me</h1>
+<p align="left>
+<div align="left"><link>facundo_aragon@hotmail.com</link></div>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
