@@ -15,7 +15,8 @@
 
 <h1 align="left">Contact me</h1>
 <p align="left>
-<div align="left"><link>facundo_aragon@hotmail.com</link></div>
+<div align="left">Email: facundo_aragon@hotmail.com</div>
+<div align="left">Mobile: +54 9 11 6641 4910</div>                 
 </p>
 
 
