@@ -6,7 +6,7 @@
 <p>Soy un Programado FullStack</p>
 
 <h1 align="left">¿Qué Hago?</h1>
-<p>Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador.</p>
+<p>Actualmente me dedico a realizar proyectos que me permiten avanzar en mi formación como programador y me encuentro en constante aprendizaje de nuevas tecnologías y herramientas que me ayuden a ser un excelente programador</p>
 
 
 <h1 align="left">¿A dónde me dirijo?</h1>
